@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "CPAJMbTTTV3x8E5vI47NtU64BeGSBhgnpyzphIR+K9E=",
+  "Source": "WebApiAjax",
+  "BasePath": "_content/WebApiAjax",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiAjax\\wwwroot",
+      "Source": "WebApiAjax",
+      "ContentRoot": "F:\\Pliki\\STUDIA\\MAGISTERKA\\SEM_1\\TAKE\\WebApiAjax\\WebApiAjax\\wwwroot\\",
+      "BasePath": "_content/WebApiAjax",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\Pliki\\STUDIA\\MAGISTERKA\\SEM_1\\TAKE\\WebApiAjax\\WebApiAjax\\wwwroot\\index.html",
+      "SourceId": "WebApiAjax",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Pliki\\STUDIA\\MAGISTERKA\\SEM_1\\TAKE\\WebApiAjax\\WebApiAjax\\wwwroot\\",
+      "BasePath": "_content/WebApiAjax",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ou3gfdmovy",
+      "Integrity": "gJp+SmTSNV9WgSz4UaorM5PLUSEBPqv7WYyK5bXKeE0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "F:\\Pliki\\STUDIA\\MAGISTERKA\\SEM_1\\TAKE\\WebApiAjax\\WebApiAjax\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gJp+SmTSNV9WgSz4UaorM5PLUSEBPqv7WYyK5bXKeE0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 10:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gJp+SmTSNV9WgSz4UaorM5PLUSEBPqv7WYyK5bXKeE0="
+        }
+      ]
+    },
+    {
+      "Route": "index.ou3gfdmovy.html",
+      "AssetFile": "F:\\Pliki\\STUDIA\\MAGISTERKA\\SEM_1\\TAKE\\WebApiAjax\\WebApiAjax\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gJp+SmTSNV9WgSz4UaorM5PLUSEBPqv7WYyK5bXKeE0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 10:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ou3gfdmovy"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gJp+SmTSNV9WgSz4UaorM5PLUSEBPqv7WYyK5bXKeE0="
+        }
+      ]
+    }
+  ]
+}
